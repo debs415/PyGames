@@ -128,10 +128,3 @@ pg.quit()
 quit()
 
 
-
-# print('bx: ', bullet.x)
-        # print('by: ', bullet.y)
-        # print('x: ', x)
-        # print((bullet.y + 10)>0, )
-        # print((bullet.y>10))
-        # print(bullet.x > (x + 100))
